@@ -1,0 +1,14 @@
+[package]
+name = "validador_documentos"
+version = "0.1.0"
+version = "0.1.0"
+authors = ["Danilo <danilo@torneseumprogramador.com.br>"]
+edition = "2024"
+description = "Criando primeiro crate de teste"
+license = "MIT"
+repository = "https://github.com/torneseumprogramador/validador_documento_rust"
+documentation = "https://docs.rs/nome_da_crate"
+homepage = "https://nome_da_crate.com"
+
+
+[dependencies]
