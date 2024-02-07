@@ -2,7 +2,7 @@
 name = "validador_documentos"
 version = "0.1.0"
 authors = ["Danilo <danilo@torneseumprogramador.com.br>"]
-edition = "2024"
+edition = "2021" # supported edition values are `2015`, `2018`, `2021`
 description = "Criando primeiro crate de teste"
 license = "MIT"
 repository = "https://github.com/torneseumprogramador/validador_documento_rust"
