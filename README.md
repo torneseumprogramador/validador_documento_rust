@@ -18,6 +18,19 @@ cargo logout
 ```shell
 cargo package
 ```
+=== Verificar o email ===
+- https://crates.io/settings/profile
+```text
+User Email
+Email
+danilo.aparecido.santos@gmail.com
+Edit
+We have sent a verification email to your address.
+
+Your email has not yet been verified.
+
+Resend
+```
 === para publicar ===
 ```shell
 cargo publish
