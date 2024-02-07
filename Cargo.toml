@@ -1,7 +1,6 @@
 [package]
 name = "validador_documentos"
 version = "0.1.0"
-version = "0.1.0"
 authors = ["Danilo <danilo@torneseumprogramador.com.br>"]
 edition = "2024"
 description = "Criando primeiro crate de teste"
